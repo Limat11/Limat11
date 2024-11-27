@@ -30,10 +30,8 @@ On this profile, you’ll find a range of projects demonstrating my work in data
 
 I am always open to collaborating on new projects, so feel free to reach out if you’re interested in working together.
 
-## 🌱 Current Focus
+## 🌱 Current Focu
 
 At the moment, I’m focusing on deepening my skills in advanced data analytics techniques, machine learning, and cloud-based data solutions. I’m particularly interested in using Python and Power BI for predictive analytics and real-time data processing.
 
----
 
-Feel free to adjust or add to this to make it more personalized or specific to your own style!
